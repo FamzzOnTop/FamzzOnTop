@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FamzzOnTop
+- 🌱 I’m currently learning Lua
+- 💞️ I’m looking to collaborate on Brutality Hub 
+- ⚡ Fun fact: I`m From Indonesian
